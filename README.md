@@ -1,8 +1,8 @@
-# Vaibhav Chavhan | Portfolio
+# Vaibhav Chavhan Portfolio
 
 Personal portfolio of Vaibhav Chavhan, a Full-Stack Developer and GenAI Engineer.
 
-**Live:** [View Live Website](live-url)
+**Live:** [View Live Website](https://vaibhav-chavhan.vercel.app)
 
 ## About
 
@@ -18,4 +18,4 @@ React 19, Vite, Tailwind CSS v4, React Icons, Web3Forms
 
 - LinkedIn: [vaibhavchavhan](https://www.linkedin.com/in/vaibhavchavhan/)
 - GitHub: [vaibhavchavhan45](https://github.com/vaibhavchavhan45)
-- Email: [chavhanvaibhav708@gmail.com](chavhanvaibhav708@gmail.com)
+- Email: [chavhanvaibhav708@gmail.com](mailto:chavhanvaibhav708@gmail.com)
